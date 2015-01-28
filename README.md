@@ -1,4 +1,4 @@
-# Kreatur-Shootemup
+# Kreatur-Shootemup / Cute'em up
 A personal project about unity and a shootemup for learning unity engines and c# by myself
 
 --------------------------------------------------------------------------------
@@ -15,3 +15,11 @@ http://dmayance.com/unity-paint-part-2/
 
 A specific library for shootemup with Unity :
 http://pixelnest.io/work/bulletml-for-unity/
+
+Notice that we need to protect this link : 
+http://www.bfxr.net/
+Francois must not see it... :x
+
+Logo font :
+Cute em up : Ghost Everywhere
+The shooting aventure : True Lies
